@@ -1,5 +1,5 @@
 {
-    "name": "@project-sunbird/content-player",
+    "name": "@jeraldj/content-player",
     "version": "8.0.1",
     "description": "Which renders the contents in both web and devices",
     "dependencies": {
